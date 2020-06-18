@@ -10,6 +10,8 @@ https://arxiv.org/pdf/1801.06146.pdf
  
 https://arxiv.org/pdf/1708.02182.pdf
 
+https://towardsdatascience.com/understanding-language-modelling-nlp-part-1-ulmfit-b557a63a672b
+
 https://docs.fast.ai/text.html#Quick-Start:-Training-an-IMDb-sentiment-model-with-ULMFiT
 
 http://nlp.fast.ai/classification/2018/05/15/introducing-ulmfit.html
