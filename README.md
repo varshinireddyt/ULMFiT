@@ -6,6 +6,8 @@ ULMFiT is developed by fastai. It focuses on transfer learning in NLP. The high 
 
  This notebook consists of detailed implementation of the ULMFiT.
 
+References:
+
 https://arxiv.org/pdf/1801.06146.pdf
  
 https://arxiv.org/pdf/1708.02182.pdf
